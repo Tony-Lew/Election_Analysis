@@ -13,7 +13,7 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 
 ## Resources
 * Data Source: election_results.csv
-* Software: Python 3.7.6, Visual Studio Code 1.50.0
+* Software: Python 3.7.6, Visual Studio Code 1.66.0
 
 ## Analysis and Challenges
 
