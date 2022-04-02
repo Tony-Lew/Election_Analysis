@@ -31,6 +31,7 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 - The winner of the election is:
   - Diana DeGette, who recived 73.8% of the total votes
 
+![output](https://user-images.githubusercontent.com/100821974/161396473-e10bcc5f-6feb-490c-a46d-c4692c1dffc8.png)
 
 ### Deliverable Requirements:
 1. Total Votes in the election are printed to the terminal.
