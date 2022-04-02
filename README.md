@@ -29,11 +29,19 @@ A Colorado Board of Elections has requested to complete the election audit of a 
   - Raymon Anthony Doane received 11,606 votes, that came out to 3.1% of the overall votes.
 
 - The winner of the election is:
-  - Diana DeGette, who recived 73.8% of the total votes
+  - Diana DeGette, who recived 73.8% of the total votes, 272,892 in totality.
 
 ![output](https://user-images.githubusercontent.com/100821974/161396473-e10bcc5f-6feb-490c-a46d-c4692c1dffc8.png)
+- The voter turnout for each county was:
+  - Aprapahoe turned out 6.7% of the voters, for a total voter count of 24,801.
+  - Denver turned out 82.8% of the voters, for a total voter count of 306,055.
+  - Jefferson turned out 10.5% of the voter, for a total voter count of 38,855.
 
-### Deliverable Requirements:
-1. Total Votes in the election are printed to the terminal.
-2. Each candidate’s total votes and percentage of votes are printed to the terminal.
-3. The winner of the election, winning vote count, and winning percentage of votes are printed to the terminal.
+- The County with the largest voter turnout was:
+  - Denver, which contained 82.8% of the total votes cast, a total of 306,055. 
+
+
+
+## Election-Audit Summary
+The code I have written can be easily modified for any future elections with a few small changes. We could also dive deeper into each county to determine what percentage of the county voted for what candidate. This would be usefull in the future incase the voter turnout is not what it should be. You would be able to concentrate your efforts in getting the public to vote in these areas. Also having this program can determine the winner in much less time. 
+
