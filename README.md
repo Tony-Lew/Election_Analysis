@@ -21,15 +21,15 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 - Diana DeGette
 - Raymon Anthony Doane
 
-  -There were 369,711 votes cast in the election.
+- There were 369,711 votes cast in the election.
 
--The candidate results were:
-  -Charles Casper Stockham received 85,213 votes, that came out to 23.0% of the overall votes.
-  -Diana DeGette received 272,892 votes, that came out to 73.8% of the overall votes.
-  -Raymon Anthony Doane received 11,606 votes, that came out to 3.1% of the overall votes.
+- The candidate results were:
+  - Charles Casper Stockham received 85,213 votes, that came out to 23.0% of the overall votes.
+  - Diana DeGette received 272,892 votes, that came out to 73.8% of the overall votes.
+  - Raymon Anthony Doane received 11,606 votes, that came out to 3.1% of the overall votes.
 
--The winner of the election is:
-  -Diana DeGette, who recived 73.8% of the total votes
+- The winner of the election is:
+  - Diana DeGette, who recived 73.8% of the total votes
 
 
 ### Deliverable Requirements:
